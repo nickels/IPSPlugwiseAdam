@@ -1,0 +1,12 @@
+{
+    "id": "{B3E011F9-B13A-ACBA-E6C2-6E006C48F0C7}",
+    "name": "IPS Plugwise Adam",
+    "author": "Nicolaas Nijman",
+    "url": "https://www.plugwise.com",
+    "compatibility": {
+        "version": "5.4"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}

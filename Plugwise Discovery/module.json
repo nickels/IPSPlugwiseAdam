@@ -1,0 +1,16 @@
+{
+    "id": "{67A6D931-E8AA-6A9E-9D88-C780BE612D40}",
+    "name": "Plugwise Discovery",
+    "type": 5,
+    "vendor": "Plugwise B.V.",
+    "aliases": [],
+    "parentRequirements": [
+        "{922179E2-2200-BE48-A007-3810A44CBE66}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{303A34D4-4C67-F61B-AE8D-CDD6692A80F8}"
+    ],
+    "prefix": "PLUGWISE",
+    "url": "https://www.plugwise.com"
+}

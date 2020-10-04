@@ -1,0 +1,12 @@
+{
+    "id": "{7CA98801-D559-5298-5262-AD7A275B00E6}",
+    "name": "Plugwise Adam Zone",
+    "type": 3,
+    "vendor": "Plugwise B.V.",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "PLUGWISE",
+    "url": "https://www.plugwise.com"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "{8606B0DC-AE45-C37C-1DC1-61D6157ED6AA}",
+    "name": "Plugwise Adam Splitter",
+    "type": 2,
+    "vendor": "Plugwise B.V.",
+    "aliases": [],
+    "parentRequirements": [
+        "{D4C1D08F-CD3B-494B-BE18-B36EF73B8F43}"
+    ],
+    "childRequirements": [
+        "{303A34D4-4C67-F61B-AE8D-CDD6692A80F8}"
+    ],
+    "implemented": [
+        "{922179E2-2200-BE48-A007-3810A44CBE66}",
+        "{018EF6B5-AB94-40C6-AA53-46943E824ACF}"
+    ],
+    "prefix": "PLUGWISE",
+    "url": "https://www.plugwise.com"
+}
